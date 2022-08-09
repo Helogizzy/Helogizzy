@@ -7,16 +7,13 @@
 
 ---
 
-### 😁 About Me/ Sobre Mí/ Sobre Mim:
+## 😁 About Me/ Sobre Mí/ Sobre Mim:
 🇺🇸
 
 My name is Heloisa, nice to meet you! I’m 20 years old. 
 
 I am currently studying Computer Science at UNIOESTE University.
 
-Languages:
-  * English intermediate level.
-  * Spanish basic level.
 #  
 🇪🇸
 
@@ -24,23 +21,16 @@ Mi nombre es Heloisa, ¡mucho gusto! Tengo 20 años.
 
 Actualmente estoy cursando Ciencias de la Computación en la Universidad UNIOESTE.
 
-Idiomas:
-  * Inglés nivel intermedio.
-  * Español nivel básico.
 #  
 🇧🇷
 
 Meu nome é Heloisa, muito prazer! Tenho 20 anos. 
 
 Atualmente estou cursando Ciência da Computação na Universidade UNIOESTE.
-
-Idiomas:
-  * Inglês nível intermediário.
-  * Espanhol nível básico.
   
 ---
 
-### 📬 Contacts/ Contactos/ Contatos:
+## 📬 Contacts/ Contactos/ Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.eloisa_alves/)
 <a href = "mailto:heloisaalves2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-aparecida-alves-945a38219/)
@@ -48,7 +38,7 @@ Idiomas:
 
 ---
 
-### 📈 My Stats/ Mis Estadísticas/ Minhas Estatísticas:
+## 📈 My Stats/ Mis Estadísticas/ Minhas Estatísticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=7&theme=radical)
