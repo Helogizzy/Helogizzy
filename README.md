@@ -4,29 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
 </div>
-
----
-
-## 😁 About Me/ Sobre Mí/ Sobre Mim:
-🇺🇸
-
-My name is Heloisa, nice to meet you! I’m 20 years old. 
-
-I am currently studying Computer Science at UNIOESTE University.
-
-#  
-🇪🇸
-
-Mi nombre es Heloisa, ¡mucho gusto! Tengo 20 años. 
-
-Actualmente estoy cursando Ciencias de la Computación en la Universidad UNIOESTE.
-
-#  
-🇧🇷
-
-Meu nome é Heloisa, muito prazer! Tenho 20 anos. 
-
-Atualmente estou cursando Ciência da Computação na Universidade UNIOESTE.
   
 ---
 
