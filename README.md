@@ -1,10 +1,17 @@
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello! Welcome to my Github profile! 🇧🇷
-> ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola! ¡Bienvenido a mi perfil de Github! 🇧🇷
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello! Welcome to my Github profile! 🇺🇸 🇧🇷
+> ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola! ¡Bienvenido a mi perfil de Github! 🇪🇸 🇧🇷
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
 </div>
   
+---
+
+## 🙋‍♀️ About me/ Sobre mi/ Sobre mim:
+* 📚 I’m currently studing computer science.
+* 👀 I’m interested about front-end languages.
+* ❤️ I love search about mobile apps and artificial intelligence.
+
 ---
 
 ## 📬 Contacts/ Contactos/ Contatos:
@@ -17,9 +24,7 @@
 
 ## 📈 My Stats/ Mis Estadísticas/ Minhas Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&count_private=true&theme=radical&include_all_commits=boolean)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=7&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&count_private=true&theme=radical&include_all_commits=boolean)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=7&theme=radical)
 <div>
 
 ---
@@ -27,5 +32,3 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-Helogizzy&style=flat-square&color=blue" alt=""/>
 </div>
-
-![Snake animation](https://github.com/Helogizzy/Helogizzy/blob/output/github-contribution-grid-snake.svg)
