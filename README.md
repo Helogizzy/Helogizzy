@@ -24,7 +24,7 @@
 
 ## 📈 My Stats/ Mis Estadísticas/ Minhas Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&count_private=true&theme=radical&include_all_commits=boolean)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=7&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&count_private=true&theme=radical&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=10&theme=radical)
 <div>
 
 ---
