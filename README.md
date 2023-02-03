@@ -7,14 +7,14 @@
   
 ---
 
-## 🙋‍♀️ About me/ Sobre mi/ Sobre mim:
+## 🙋‍♀️ About me:
 * 📚 I’m currently studing computer science.
 * 👀 I’m interested about front-end languages.
 * ❤️ I love search about mobile apps and artificial intelligence.
 
 ---
 
-## 📬 Contacts/ Contactos/ Contatos:
+## 📬 Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.eloisa_alves/)
 <a href = "mailto:heloisaalves2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-aparecida-alves-945a38219/)
@@ -22,7 +22,17 @@
 
 ---
 
-## 📈 My Stats/ Mis Estadísticas/ Minhas Estatísticas:
+## 🖥️ Technologies and IDEs:
+<div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px"/>      
+</div>
+
+---
+
+## 📈 My Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helogizzy&show_icons=true&count_private=true&theme=radical&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helogizzy&layout=compact&langs_count=10&theme=radical)
 <div>
