@@ -1,16 +1,17 @@
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello! Welcome to my Github profile! 🇺🇸 🇧🇷
-> ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola! ¡Bienvenido a mi perfil de Github! 🇪🇸 🇧🇷
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="200px"/>
+</div>
+<h1 align="center">Welcome to my Github profile!  </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
 </div>
   
 ---
-
 ## 🙋‍♀️ About me:
-* 📚 I’m currently studing computer science.
-* 👀 I’m interested about front-end languages.
-* ❤️ I love search about mobile apps and artificial intelligence.
+* 📚 I’m currently studing SQL and front-end languages.
+* 👀 I’m interested about web development.
+* ❤️ I love search about machine learning and artificial intelligence.
 
 ---
 
@@ -22,12 +23,22 @@
 
 ---
 
-## 🖥️ Technologies and IDEs:
+## 🖥️ Languages, OS and Tools:
 <div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px"/>      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
+                
 </div>
 
 ---
