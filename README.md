@@ -1,7 +1,4 @@
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="200px"/>
-</div>
-<h1 align="center">Welcome to my Github profile!  </h1>
+<h1 align="center">Welcome to my Github profile! 😊 </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
